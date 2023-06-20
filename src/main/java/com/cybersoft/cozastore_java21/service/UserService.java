@@ -1,6 +1,7 @@
 package com.cybersoft.cozastore_java21.service;
 
 import com.cybersoft.cozastore_java21.entity.UserEntity;
+import com.cybersoft.cozastore_java21.exception.CustomException;
 import com.cybersoft.cozastore_java21.payload.request.SignupRequest;
 import com.cybersoft.cozastore_java21.repository.UserRepository;
 import com.cybersoft.cozastore_java21.service.imp.UserServiceImp;
@@ -25,7 +26,7 @@ public class UserService implements UserServiceImp {
             userRepository.save(user);
             isSuccess = true;
         } catch (Exception e) {
-
+            throw new CustomException("Loi them User" + e.getMessage());
         }
 
 
