@@ -23,6 +23,7 @@ public class UserService implements UserServiceImp {
             UserEntity user = new UserEntity();
             user.setUsername(request.getUsername());
             user.setPassword(passwordEncoder.encode(request.getPassword()));
+            user.setEmail(request.getEmail());
             userRepository.save(user);
             isSuccess = true;
         } catch (Exception e) {
