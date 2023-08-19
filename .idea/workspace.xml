@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629e8a69-ad16-49fb-89be-0677a0537108" name="Changes" comment="" />
+    <list default="true" id="629e8a69-ad16-49fb-89be-0677a0537108" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/login/login.component.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,24 +46,41 @@
     </option>
   </component>
   <component name="ProjectId" id="2QvDBd7O0TdjWq36XCJ9hfMmxm9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Java_BE_Cybersoft/cozastore_java21",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java_BE_Cybersoft/EmployeeManager/backend/employeemanager&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7938457b1045ec354795729fe31fa96d&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_BE_Cybersoft\git_project\cozastore_java21\src\main\java\com\cybersoft\cozastore_java21" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="CozastoreJava21Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="cozastore_java21" />
@@ -63,10 +99,79 @@
       <option name="presentableId" value="Default" />
       <updated>1686225028471</updated>
       <workItem from="1686225029808" duration="554000" />
+      <workItem from="1686228958290" duration="3678000" />
+      <workItem from="1686369461336" duration="489000" />
+      <workItem from="1686655815914" duration="9122000" />
+      <workItem from="1686723282411" duration="721000" />
+      <workItem from="1686733152084" duration="1396000" />
+      <workItem from="1686734591580" duration="14000" />
+      <workItem from="1686734698988" duration="35000" />
+      <workItem from="1686734939135" duration="1999000" />
+      <workItem from="1686828566206" duration="8561000" />
+      <workItem from="1686990963203" duration="30000" />
+      <workItem from="1687066277983" duration="6014000" />
+      <workItem from="1687177817789" duration="24000" />
+      <workItem from="1687261320728" duration="6292000" />
+      <workItem from="1687310415892" duration="235000" />
+      <workItem from="1687357144002" duration="45000" />
+      <workItem from="1687433719727" duration="6948000" />
+      <workItem from="1687763623023" duration="636000" />
+      <workItem from="1687765194113" duration="1980000" />
+      <workItem from="1687865425483" duration="5699000" />
+      <workItem from="1688038348698" duration="3697000" />
+      <workItem from="1688229651820" duration="645000" />
+      <workItem from="1688279660271" duration="3504000" />
+      <workItem from="1688453468915" duration="1219000" />
+      <workItem from="1688465576978" duration="3617000" />
+      <workItem from="1688470313677" duration="648000" />
+      <workItem from="1688693577905" duration="1941000" />
+      <workItem from="1689517920176" duration="954000" />
+      <workItem from="1689520763607" duration="734000" />
+      <workItem from="1689653005838" duration="2163000" />
+      <workItem from="1689681968885" duration="949000" />
+      <workItem from="1689749567172" duration="13000" />
+      <workItem from="1689750013855" duration="1464000" />
+      <workItem from="1689752487937" duration="774000" />
+      <workItem from="1690530057384" duration="337000" />
+      <workItem from="1690785399248" duration="18000" />
+      <workItem from="1690785889764" duration="23000" />
+      <workItem from="1690790953600" duration="123000" />
+      <workItem from="1690808491928" duration="2000" />
+      <workItem from="1690966668087" duration="46000" />
+      <workItem from="1690966817754" duration="266000" />
+      <workItem from="1690967181869" duration="1280000" />
+      <workItem from="1691036537098" duration="18000" />
+      <workItem from="1691068235985" duration="2051000" />
+      <workItem from="1691114123938" duration="693000" />
+      <workItem from="1691231063882" duration="2000" />
+      <workItem from="1691388818984" duration="1336000" />
+      <workItem from="1691474662902" duration="491000" />
+      <workItem from="1691505398769" duration="13000" />
+      <workItem from="1691653650754" duration="1053000" />
+      <workItem from="1692000681865" duration="66000" />
+      <workItem from="1692002130401" duration="9000" />
+      <workItem from="1692002288713" duration="6000" />
+      <workItem from="1692002319974" duration="780000" />
+      <workItem from="1692014311404" duration="1399000" />
+      <workItem from="1692017671545" duration="171000" />
+      <workItem from="1692192279450" duration="1477000" />
+      <workItem from="1692194290154" duration="227000" />
+      <workItem from="1692255499102" duration="3262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
