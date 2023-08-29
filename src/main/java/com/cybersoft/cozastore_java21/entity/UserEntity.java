@@ -19,6 +19,9 @@ public class UserEntity {
     @Column(name = "email")
     private String email;
 
+    @Column(name = "reset_password_token")
+    private String resetPasswordToken;
+
     @OneToMany(mappedBy = "user")
     private Set<BlogEntity> blogs;
 
@@ -32,7 +35,6 @@ public class UserEntity {
     public void setOrders(Set<OrderEntity> orders) {
         this.orders = orders;
     }
-
     public int getId() {
         return id;
     }
@@ -63,6 +65,14 @@ public class UserEntity {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public String getResetPasswordToken() {
+        return resetPasswordToken;
+    }
+
+    public void setResetPasswordToken(String resetPasswordToken) {
+        this.resetPasswordToken = resetPasswordToken;
     }
 
     public Set<BlogEntity> getBlogs() {
